@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20200626_220906.jpg</filename>
+	<path>/home/kan/Important (Back these up)/SDCP/Traffic_Sign_Training_Own_Data/models/object_detection/data/images/train/IMG_20200626_220906.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Straight Or Right Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>183</ymin>
+			<xmax>218</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Straight Or Left Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>320</xmin>
+			<ymin>195</ymin>
+			<xmax>444</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

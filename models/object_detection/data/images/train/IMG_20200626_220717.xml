@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20200626_220717.jpg</filename>
+	<path>/home/kan/Important (Back these up)/SDCP/Traffic_Sign_Training_Own_Data/models/object_detection/data/images/train/IMG_20200626_220717.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Speed Limit 25</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>199</ymin>
+			<xmax>284</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>201</ymin>
+			<xmax>375</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Red Traffic Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>399</xmin>
+			<ymin>205</ymin>
+			<xmax>443</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>
