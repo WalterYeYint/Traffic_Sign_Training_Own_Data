@@ -1,0 +1,38 @@
+<annotation>
+	<folder>lobby</folder>
+	<filename>IMG_20200807_125957.jpg</filename>
+	<path>/home/kan/Important (Back these up)/SDCP/lobby/IMG_20200807_125957.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Straight Or Right Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>97</ymin>
+			<xmax>279</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Speed Limit 25</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>105</ymin>
+			<xmax>458</xmax>
+			<ymax>250</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>lobby</folder>
+	<filename>IMG_20200807_130450.jpg</filename>
+	<path>/home/kan/Important (Back these up)/SDCP/lobby/IMG_20200807_130450.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red Traffic Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>85</ymin>
+			<xmax>257</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>348</xmin>
+			<ymin>95</ymin>
+			<xmax>404</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>
