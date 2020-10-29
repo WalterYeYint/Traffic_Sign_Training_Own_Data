@@ -1,7 +1,7 @@
 <annotation>
-	<folder>lobby</folder>
+	<folder>train</folder>
 	<filename>IMG_20200807_130454.jpg</filename>
-	<path>/home/kan/Important (Back these up)/SDCP/lobby/IMG_20200807_130454.jpg</path>
+	<path>/home/kan/Important (Back these up)/SDCP/Traffic_Sign_Training_Own_Data/models/object_detection/data/images/train/IMG_20200807_130454.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Stop Sign</name>
+		<name>Red Traffic Light</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
