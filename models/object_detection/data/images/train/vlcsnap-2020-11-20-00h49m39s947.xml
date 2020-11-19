@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Pics for train</folder>
+	<filename>vlcsnap-2020-11-20-00h49m39s947.jpg</filename>
+	<path>/home/kan/Downloads/Pics for train/vlcsnap-2020-11-20-00h49m39s947.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Green Traffic Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>189</ymin>
+			<xmax>314</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stop Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>189</ymin>
+			<xmax>351</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Red Traffic Light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>191</ymin>
+			<xmax>384</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>
