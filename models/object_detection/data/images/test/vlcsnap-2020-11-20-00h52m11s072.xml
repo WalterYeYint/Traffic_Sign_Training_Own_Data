@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Pics for train</folder>
+	<filename>vlcsnap-2020-11-20-00h52m11s072.jpg</filename>
+	<path>/home/kan/Downloads/Pics for train/vlcsnap-2020-11-20-00h52m11s072.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Speed Limit 25</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>178</ymin>
+			<xmax>270</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Speed Limit 35</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>180</ymin>
+			<xmax>376</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Speed Limit 50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>426</xmin>
+			<ymin>189</ymin>
+			<xmax>534</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>
